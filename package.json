@@ -1,0 +1,20 @@
+{
+  "name": "barchart-market-data-api",
+  "version": "1.0.0",
+  "description": "Barchart OnDemand API servic have access to 15-minute delayed market data for BATS (US equities) and global Forex pairs, and end-of-day (including historical) market data for US equities from AMEX, NASDAQ, NYSE and futures from CBOT, CME, COMEX and NYMEX.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha tests/"
+  },
+  "author": "Yago Pérez <yagoperezs@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.7.0",
+    "jsdoc-to-markdown": "^1.2.0"
+  },
+  "devDependencies": {
+    "jsdoc-to-markdown": "^1.1.1",
+    "mocha": "^2.3.3",
+    "should": "^7.1.0"
+  }
+}
