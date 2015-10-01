@@ -1,6 +1,6 @@
 ## Barchart OnDemand Free Market Data API Client
 
-Barchart offers free Market data API on [freemarketdataapi.barchartondemand.com](freemarketdataapi.barchartondemand.com),
+Barchart offers free Market data API on [freemarketdataapi.barchartondemand.com](http://freemarketdataapi.barchartondemand.com),
 to use the API you need an API key which is provided singing up on theirs website.
 
 This client offers access to free methods `getQuote` and `getHistory`.
